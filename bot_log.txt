@@ -1,0 +1,80 @@
+INFO:__main__:Starting Telegram bot...
+INFO:__main__:Bot is running. Press Ctrl+C to stop.
+INFO:__main__:Received command /start from user 7788743720
+INFO:__main__:Admin check for user 7788743720: True
+INFO:quotex_scraper:QuotexScraper initialized
+INFO:quotex_scraper:Setting up Chrome WebDriver...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/Users/mjlr0/.wdm/drivers/chromedriver/mac64/135.0.7049.95/chromedriver-mac-arm64/chromedriver] found in cache
+INFO:quotex_scraper:Chrome WebDriver setup completed successfully
+INFO:quotex_scraper:Attempting to login to Quotex...
+INFO:quotex_scraper:Navigated to login page
+INFO:quotex_scraper:Looking for email field...
+ERROR:quotex_scraper:Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001012fae10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x00000001012f30ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000100e3a8d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000100e816a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x0000000100ec27b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000100e75a80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x00000001012bfc98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x00000001012c2f64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x000000010129fa20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x00000001012c37e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x0000000101290b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x00000001012e39c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x00000001012e3b50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x00000001012f2cf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x000000019caec2e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019cae70fc thread_start + 8
+
+ERROR:__main__:Failed to connect to Quotex
+INFO:__main__:Received command /help from user 7788743720
+INFO:__main__:Admin check for user 7788743720: True
+INFO:__main__:Received command /start from user 7788743720
+INFO:__main__:Admin check for user 7788743720: True
+INFO:quotex_scraper:QuotexScraper initialized
+INFO:quotex_scraper:Setting up Chrome WebDriver...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/Users/mjlr0/.wdm/drivers/chromedriver/mac64/135.0.7049.95/chromedriver-mac-arm64/chromedriver] found in cache
+INFO:quotex_scraper:Chrome WebDriver setup completed successfully
+INFO:quotex_scraper:Attempting to login to Quotex...
+INFO:quotex_scraper:Navigated to login page
+INFO:quotex_scraper:Looking for email field...
+ERROR:quotex_scraper:Login failed: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000105262e10 cxxbridge1$str$ptr + 2817040
+1   chromedriver                        0x000000010525b0ac cxxbridge1$str$ptr + 2784940
+2   chromedriver                        0x0000000104da28d8 cxxbridge1$string$len + 93028
+3   chromedriver                        0x0000000104de96a0 cxxbridge1$string$len + 383276
+4   chromedriver                        0x0000000104e2a7b8 cxxbridge1$string$len + 649796
+5   chromedriver                        0x0000000104ddda80 cxxbridge1$string$len + 335116
+6   chromedriver                        0x0000000105227c98 cxxbridge1$str$ptr + 2575000
+7   chromedriver                        0x000000010522af64 cxxbridge1$str$ptr + 2588004
+8   chromedriver                        0x0000000105207a20 cxxbridge1$str$ptr + 2443296
+9   chromedriver                        0x000000010522b7e0 cxxbridge1$str$ptr + 2590176
+10  chromedriver                        0x00000001051f8b14 cxxbridge1$str$ptr + 2382100
+11  chromedriver                        0x000000010524b9c4 cxxbridge1$str$ptr + 2721732
+12  chromedriver                        0x000000010524bb50 cxxbridge1$str$ptr + 2722128
+13  chromedriver                        0x000000010525acf8 cxxbridge1$str$ptr + 2783992
+14  libsystem_pthread.dylib             0x000000019caec2e4 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000019cae70fc thread_start + 8
+
+ERROR:__main__:Failed to connect to Quotex
+INFO:__main__:Received command /start from user 7788743720
+INFO:__main__:Admin check for user 7788743720: True
+INFO:quotex_scraper:QuotexScraper initialized
+INFO:quotex_scraper:Setting up Chrome WebDriver...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/Users/mjlr0/.wdm/drivers/chromedriver/mac64/135.0.7049.95/chromedriver-mac-arm64/chromedriver] found in cache
+INFO:quotex_scraper:Chrome WebDriver setup completed successfully
+INFO:quotex_scraper:Attempting to login to Quotex...
+INFO:quotex_scraper:Navigated to login page
+INFO:quotex_scraper:Looking for email field...

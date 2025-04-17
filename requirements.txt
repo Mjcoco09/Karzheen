@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+selenium==4.18.1
+pandas==2.2.1
+ta==0.11.0
+python-dotenv==1.0.1
+pytest==8.0.2
+webdriver-manager==3.9.1
+pillow==11.0.0 
